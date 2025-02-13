@@ -100,7 +100,7 @@ function App() {
           </div>
         )}
       </div>
-      <div className="container mx-auto flex justify-between items-center">
+      <div className="container mx-auto flex justify-between items-center mt-8">
         <div className="text-gray-800 dark:text-white">
           <span className="font-bold">© 2024 Hadi Radji (RZero Dev)</span>
         </div>
